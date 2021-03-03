@@ -1,0 +1,152 @@
+Common:
+  logo: common.png
+  description: 常用网页
+
+  Bilibili:
+    - https://www.bilibili.com/
+    - 年轻人的社区
+    - bili.png
+  Github:
+    - https://www.github.com/
+    - 同性交友网站
+    - github.png
+  Zhihu:
+    - https://www.zhihu.com/
+    - 问答社区
+    - zhihu.png
+  Notion:
+    - https://www.notion.so/
+    - 笔记
+    - notion.png
+  Colib:
+    - https://colab.research.google.com/
+    - 写Python
+    - colib.png
+  ProcessOn:
+    - https://www.processon.com/
+    - 画图
+    - processon.png
+  Runoob:
+    - https://www.runoob.com/
+    - 菜鸟教程
+    - runoob.png
+
+MyWeb:
+  logo: web.png
+  description: 我的网站
+
+  Home:
+    - https://fzf404.top/
+    - Home Page
+    - home.png
+  Blog:
+    - https://blog.fzf404.top/
+    - 写作博客
+    - blog.png
+  Note:
+    - https://note.fzf404.top/
+    - 笔记博客
+    - note.png
+  Movie:
+    - http://video.fzf404.top/
+    - 影视解析
+    - movie.png
+  Download:
+    - http://dl.fzf404.top/
+    - 小水管下载站
+    - download.png
+
+Develop:
+  logo: code.png
+  description: 开发社区
+
+  Gitee:
+    - https://www.gitee.com/
+    - 国内代码仓库
+    - gitee.png
+  YuQue:
+    - https://www.yuque.com/
+    - 好用的文档库
+    - yuque.png
+  Juejin:
+    - https://juejin.cn/
+    - 技术文章聚集地
+    - juejin.png
+  SegFault:
+    - https://segmentfault.com/
+    - 思否社区
+    - sf.png
+  V2ex:
+    - https://www.v2ex.com/
+    - 程序员的贴吧
+    - v2ex.png
+  StackOverFlow:
+    - https://stackoverflow.com/
+    - 秒杀CSDN
+    - stackoverflow.png
+  LeetCode:
+    - https://leetcode-cn.com/
+    - 立扣题库
+    - leetcode.png
+
+# Documnet:
+#   logo: document.png
+#   description: 开发文档
+
+  Antd:
+    - https://ant.design/components/overview-cn/
+    - 开发文档
+    - antd.png
+  Element:
+    - https://element.eleme.cn/#/zh-CN/component/
+    - 开发文档
+    - element.png
+  MicroSoft:
+    - https://docs.microsoft.com/zh-cn/learn/
+    - 微软学习文档
+    - microsoft.png
+
+HardWare:
+  logo: hardware.png
+  description: 硬件社区
+
+  Arduino:
+    - https://www.arduino.cn/
+    - Arduino社区
+    - arduino.png
+  KeChuang:
+    - https://www.kechuang.org/
+    - 科创论坛
+    - kechuang.png
+  EDA:
+    - https://lceda.cn/editor
+    - 立创EDA
+    - pcb.png
+
+Tools:
+  logo: design.png
+  description: 工具
+
+  IconFont:
+    - https://www.iconfont.cn/
+    - 阿里图标
+    - iconfont.png
+  Greasy Fork:
+    - https://greasyfork.org/zh-CN
+    - 油猴脚本
+    - monkey.png
+  Extensions:
+    - https://https://chrome.google.com/webstore/category/extensions
+    - Chrome扩展
+    - chrome.png
+
+# Relax:
+#   logo: relax.png
+#   description: 休闲
+
+  Youtube:
+    - https://www.youtube.com/
+    - 不存在的网站
+    - youtube.png
+
+
