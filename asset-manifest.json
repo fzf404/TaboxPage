@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.39c418f0.chunk.css",
-    "main.js": "/static/js/main.c5aa0cc4.chunk.js",
-    "main.js.map": "/static/js/main.c5aa0cc4.chunk.js.map",
+    "main.js": "/static/js/main.e0dcfdeb.chunk.js",
+    "main.js.map": "/static/js/main.e0dcfdeb.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.06322c1f.js",
     "runtime-main.js.map": "/static/js/runtime-main.06322c1f.js.map",
     "static/css/2.b4e56faa.chunk.css": "/static/css/2.b4e56faa.chunk.css",
@@ -12,7 +12,7 @@
     "static/css/2.b4e56faa.chunk.css.map": "/static/css/2.b4e56faa.chunk.css.map",
     "static/css/main.39c418f0.chunk.css.map": "/static/css/main.39c418f0.chunk.css.map",
     "static/js/2.7eaba1c1.chunk.js.LICENSE.txt": "/static/js/2.7eaba1c1.chunk.js.LICENSE.txt",
-    "static/media/headbox.f59065be.yml": "/static/media/headbox.f59065be.yml",
+    "static/media/headbox.2ad49543.yml": "/static/media/headbox.2ad49543.yml",
     "static/media/tabox.31ac590c.yml": "/static/media/tabox.31ac590c.yml"
   },
   "entrypoints": [
@@ -20,6 +20,6 @@
     "static/css/2.b4e56faa.chunk.css",
     "static/js/2.7eaba1c1.chunk.js",
     "static/css/main.39c418f0.chunk.css",
-    "static/js/main.c5aa0cc4.chunk.js"
+    "static/js/main.e0dcfdeb.chunk.js"
   ]
 }
